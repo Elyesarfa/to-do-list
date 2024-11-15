@@ -38,8 +38,7 @@ dependencies:
   #data base
 
 
-  #generate RCFC4122
-  uuid: ^4.5.1
+
 
   #provides internationalization and localization facilities
   intl: ^0.19.0
